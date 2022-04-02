@@ -1,6 +1,6 @@
 # docker创建redis 6.2服务
 
-> 默认开启持久化，若需要关闭请修改 redis.conf 的 appendonly 配置
+> 默认关闭持久化，若需要关闭请修改 redis.conf 的 appendonly 配置
 > 默认开启密码访问，密码为123456，实际使用请修改 redis.conf 的 requirepass 配置
 
 
